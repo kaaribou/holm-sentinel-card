@@ -1,0 +1,6 @@
+{
+  "name": "HOLM Sentinel Card",
+  "render_readme": true,
+  "filename": "holm-sentinel-card.js",
+  "homeassistant": "2025.1.0"
+}
